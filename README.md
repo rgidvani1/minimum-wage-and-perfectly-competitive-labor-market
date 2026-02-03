@@ -9,3 +9,4 @@ The model assumes:
 - Labor supply is upward sloping and fixed over time
 - A binding wage floor $\bar{w}$ is imposed such that $\bar{w} > w^*$
 - Over time, firms adjust to the wage floor through capital substitution, automation, or exit, modeled as an inward shift of labor demand
+
